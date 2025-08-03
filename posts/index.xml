@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on FishH2O</title>
+        <link>https://fish-h2o.github.io/hugoweb/posts/</link>
+        <description>Recent content in Posts on FishH2O</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Sun, 03 Aug 2025 01:44:45 +0800</lastBuildDate><atom:link href="https://fish-h2o.github.io/hugoweb/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>My First Post</title>
+        <link>https://fish-h2o.github.io/hugoweb/posts/my-first-post/</link>
+        <pubDate>Sun, 03 Aug 2025 01:44:45 +0800</pubDate>
+        
+        <guid>https://fish-h2o.github.io/hugoweb/posts/my-first-post/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
